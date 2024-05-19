@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
